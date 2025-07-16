@@ -1,3 +1,7 @@
+## Tool to make notes from a yt video
+- Side project made for personal usecase
+
+
 ## Setup Instructions
 
 1. Clone or download the repository to your local machine.
